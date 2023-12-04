@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'StaticIPaddress'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9753949F994456F9307B65831FC72DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFA43C0689814E9C926B71A4E4CE4867 }}
           package: .
