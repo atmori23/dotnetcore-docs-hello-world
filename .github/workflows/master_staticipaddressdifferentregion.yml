@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'StaticIPaddressDifferentRegion'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C47A45B594E849B98BA1F0C1DE1BEDCE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C862922746A347BC94E380053889D905 }}
           package: .
